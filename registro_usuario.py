@@ -14,7 +14,7 @@ def creandoUsuario():
     
     #Datos de usuario
     userName = input("Ingresa nombre de usuario: ")
-    password = input("Ingresa contraseña(mayor de 5 digitos)(Con lestras y numeros): ")
+    password = input("Ingresa contraseña(mayor de 6 digitos)(Con letras y numeros): ")
     confirPassword = input("confirme su contraseña: ")
     
     
